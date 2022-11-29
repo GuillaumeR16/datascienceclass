@@ -1,10 +1,10 @@
 TIME,GEO,UNIT,MATERIAL,INDIC_ENV,Value
-2012,European Union - 27 countries (from 2020),Tonnes per capita,Total,Direct material inputs,15.412
+2012,European Union,Tonnes per capita,Total,Direct material inputs,15.412
 2012,Belgium,Tonnes per capita,Total,Direct material inputs,30.763
 2012,Bulgaria,Tonnes per capita,Total,Direct material inputs,20.731
 2012,Czechia,Tonnes per capita,Total,Direct material inputs,21.315
 2012,Denmark,Tonnes per capita,Total,Direct material inputs,31.074
-2012,Germany (until 1990 former territory of the FRG),Tonnes per capita,Total,Direct material inputs,20.272
+2012,Germany,Tonnes per capita,Total,Direct material inputs,20.272
 2012,Estonia,Tonnes per capita,Total,Direct material inputs,37.086
 2012,Ireland,Tonnes per capita,Total,Direct material inputs,22.867
 2012,Greece,Tonnes per capita,Total,Direct material inputs,17.197
@@ -41,7 +41,7 @@ TIME,GEO,UNIT,MATERIAL,INDIC_ENV,Value
 2013,Bulgaria,Tonnes per capita,Total,Direct material inputs,20.742
 2013,Czechia,Tonnes per capita,Total,Direct material inputs,21.225
 2013,Denmark,Tonnes per capita,Total,Direct material inputs,29.599
-2013,Germany (until 1990 former territory of the FRG),Tonnes per capita,Total,Direct material inputs,20.265
+2013,Germany,Tonnes per capita,Total,Direct material inputs,20.265
 2013,Estonia,Tonnes per capita,Total,Direct material inputs,38.621
 2013,Ireland,Tonnes per capita,Total,Direct material inputs,24.116
 2013,Greece,Tonnes per capita,Total,Direct material inputs,16.600
@@ -73,12 +73,12 @@ TIME,GEO,UNIT,MATERIAL,INDIC_ENV,Value
 2013,Serbia,Tonnes per capita,Total,Direct material inputs,16.705
 2013,Turkiye,Tonnes per capita,Total,Direct material inputs,13.098
 2013,Bosnia and Herzegovina,Tonnes per capita,Total,Direct material inputs,
-2014,European Union - 27 countries (from 2020),Tonnes per capita,Total,Direct material inputs,15.221
+2014,European Union,Tonnes per capita,Total,Direct material inputs,15.221
 2014,Belgium,Tonnes per capita,Total,Direct material inputs,30.255
 2014,Bulgaria,Tonnes per capita,Total,Direct material inputs,22.430
 2014,Czechia,Tonnes per capita,Total,Direct material inputs,21.952
 2014,Denmark,Tonnes per capita,Total,Direct material inputs,29.516
-2014,Germany (until 1990 former territory of the FRG),Tonnes per capita,Total,Direct material inputs,20.580
+2014,Germany,Tonnes per capita,Total,Direct material inputs,20.580
 2014,Estonia,Tonnes per capita,Total,Direct material inputs,37.326
 2014,Ireland,Tonnes per capita,Total,Direct material inputs,23.503
 2014,Greece,Tonnes per capita,Total,Direct material inputs,17.431
@@ -110,12 +110,12 @@ TIME,GEO,UNIT,MATERIAL,INDIC_ENV,Value
 2014,Serbia,Tonnes per capita,Total,Direct material inputs,15.954
 2014,Turkiye,Tonnes per capita,Total,Direct material inputs,13.362
 2014,Bosnia and Herzegovina,Tonnes per capita,Total,Direct material inputs,
-2015,European Union - 27 countries (from 2020),Tonnes per capita,Total,Direct material inputs,15.266
+2015,European Union,Tonnes per capita,Total,Direct material inputs,15.266
 2015,Belgium,Tonnes per capita,Total,Direct material inputs,29.721
 2015,Bulgaria,Tonnes per capita,Total,Direct material inputs,24.971
 2015,Czechia,Tonnes per capita,Total,Direct material inputs,22.649
 2015,Denmark,Tonnes per capita,Total,Direct material inputs,30.145
-2015,Germany (until 1990 former territory of the FRG),Tonnes per capita,Total,Direct material inputs,20.098
+2015,Germany,Tonnes per capita,Total,Direct material inputs,20.098
 2015,Estonia,Tonnes per capita,Total,Direct material inputs,36.253
 2015,Ireland,Tonnes per capita,Total,Direct material inputs,24.410
 2015,Greece,Tonnes per capita,Total,Direct material inputs,17.135
@@ -147,12 +147,12 @@ TIME,GEO,UNIT,MATERIAL,INDIC_ENV,Value
 2015,Serbia,Tonnes per capita,Total,Direct material inputs,16.968
 2015,Turkiye,Tonnes per capita,Total,Direct material inputs,14.119
 2015,Bosnia and Herzegovina,Tonnes per capita,Total,Direct material inputs,11.941
-2016,European Union - 27 countries (from 2020),Tonnes per capita,Total,Direct material inputs,15.245
+2016,European Union,Tonnes per capita,Total,Direct material inputs,15.245
 2016,Belgium,Tonnes per capita,Total,Direct material inputs,29.848
 2016,Bulgaria,Tonnes per capita,Total,Direct material inputs,22.911
 2016,Czechia,Tonnes per capita,Total,Direct material inputs,22.351
 2016,Denmark,Tonnes per capita,Total,Direct material inputs,30.640
-2016,Germany (until 1990 former territory of the FRG),Tonnes per capita,Total,Direct material inputs,20.106
+2016,Germany,Tonnes per capita,Total,Direct material inputs,20.106
 2016,Estonia,Tonnes per capita,Total,Direct material inputs,36.133
 2016,Ireland,Tonnes per capita,Total,Direct material inputs,25.695
 2016,Greece,Tonnes per capita,Total,Direct material inputs,16.780
@@ -184,7 +184,7 @@ TIME,GEO,UNIT,MATERIAL,INDIC_ENV,Value
 2016,Serbia,Tonnes per capita,Total,Direct material inputs,18.706
 2016,Turkiye,Tonnes per capita,Total,Direct material inputs,14.207
 2016,Bosnia and Herzegovina,Tonnes per capita,Total,Direct material inputs,13.686
-2017,European Union - 27 countries (from 2020),Tonnes per capita,Total,Direct material inputs,15.658
+2017,European Union,Tonnes per capita,Total,Direct material inputs,15.658
 2017,Belgium,Tonnes per capita,Total,Direct material inputs,30.466
 2017,Bulgaria,Tonnes per capita,Total,Direct material inputs,23.872
 2017,Czechia,Tonnes per capita,Total,Direct material inputs,22.375
@@ -221,7 +221,7 @@ TIME,GEO,UNIT,MATERIAL,INDIC_ENV,Value
 2017,Serbia,Tonnes per capita,Total,Direct material inputs,18.082
 2017,Turkiye,Tonnes per capita,Total,Direct material inputs,14.816
 2017,Bosnia and Herzegovina,Tonnes per capita,Total,Direct material inputs,13.023
-2018,European Union - 27 countries (from 2020),Tonnes per capita,Total,Direct material inputs,15.848
+2018,European Union,Tonnes per capita,Total,Direct material inputs,15.848
 2018,Belgium,Tonnes per capita,Total,Direct material inputs,30.646
 2018,Bulgaria,Tonnes per capita,Total,Direct material inputs,24.330
 2018,Czechia,Tonnes per capita,Total,Direct material inputs,22.947
@@ -258,12 +258,12 @@ TIME,GEO,UNIT,MATERIAL,INDIC_ENV,Value
 2018,Serbia,Tonnes per capita,Total,Direct material inputs,18.979
 2018,Turkiye,Tonnes per capita,Total,Direct material inputs,13.753
 2018,Bosnia and Herzegovina,Tonnes per capita,Total,Direct material inputs,13.668
-2019,European Union - 27 countries (from 2020),Tonnes per capita,Total,Direct material inputs,15.847
+2019,European Union,Tonnes per capita,Total,Direct material inputs,15.847
 2019,Belgium,Tonnes per capita,Total,Direct material inputs,30.160
 2019,Bulgaria,Tonnes per capita,Total,Direct material inputs,25.090
 2019,Czechia,Tonnes per capita,Total,Direct material inputs,23.099
 2019,Denmark,Tonnes per capita,Total,Direct material inputs,31.390
-2019,Germany (until 1990 former territory of the FRG),Tonnes per capita,Total,Direct material inputs,19.538
+2019,Germany,Tonnes per capita,Total,Direct material inputs,19.538
 2019,Estonia,Tonnes per capita,Total,Direct material inputs,41.303
 2019,Ireland,Tonnes per capita,Total,Direct material inputs,28.356
 2019,Greece,Tonnes per capita,Total,Direct material inputs,16.026
@@ -295,12 +295,12 @@ TIME,GEO,UNIT,MATERIAL,INDIC_ENV,Value
 2019,Serbia,Tonnes per capita,Total,Direct material inputs,20.431
 2019,Turkiye,Tonnes per capita,Total,Direct material inputs,12.469
 2019,Bosnia and Herzegovina,Tonnes per capita,Total,Direct material inputs,13.755
-2020,European Union - 27 countries (from 2020),Tonnes per capita,Total,Direct material inputs,15.191
+2020,European Union,Tonnes per capita,Total,Direct material inputs,15.191
 2020,Belgium,Tonnes per capita,Total,Direct material inputs,28.973
 2020,Bulgaria,Tonnes per capita,Total,Direct material inputs,24.379
 2020,Czechia,Tonnes per capita,Total,Direct material inputs,21.862
 2020,Denmark,Tonnes per capita,Total,Direct material inputs,30.689
-2020,Germany (until 1990 former territory of the FRG),Tonnes per capita,Total,Direct material inputs,18.881
+2020,Germany,Tonnes per capita,Total,Direct material inputs,18.881
 2020,Estonia,Tonnes per capita,Total,Direct material inputs,41.335
 2020,Ireland,Tonnes per capita,Total,Direct material inputs,26.151
 2020,Greece,Tonnes per capita,Total,Direct material inputs,14.168
@@ -332,12 +332,12 @@ TIME,GEO,UNIT,MATERIAL,INDIC_ENV,Value
 2020,Serbia,Tonnes per capita,Total,Direct material inputs,21.374
 2020,Turkiye,Tonnes per capita,Total,Direct material inputs,
 2020,Bosnia and Herzegovina,Tonnes per capita,Total,Direct material inputs,
-2021,European Union - 27 countries (from 2020),Tonnes per capita,Total,Direct material inputs,15.783
+2021,European Union,Tonnes per capita,Total,Direct material inputs,15.783
 2021,Belgium,Tonnes per capita,Total,Direct material inputs,30.626
 2021,Bulgaria,Tonnes per capita,Total,Direct material inputs,26.659
 2021,Czechia,Tonnes per capita,Total,Direct material inputs,22.740
 2021,Denmark,Tonnes per capita,Total,Direct material inputs,32.205
-2021,Germany (until 1990 former territory of the FRG),Tonnes per capita,Total,Direct material inputs,19.388
+2021,Germany,Tonnes per capita,Total,Direct material inputs,19.388
 2021,Estonia,Tonnes per capita,Total,Direct material inputs,44.438
 2021,Ireland,Tonnes per capita,Total,Direct material inputs,26.208
 2021,Greece,Tonnes per capita,Total,Direct material inputs,14.402
