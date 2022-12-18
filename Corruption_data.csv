@@ -12,8 +12,8 @@ Bangladesh,BGD,AP,15,2004
 Barbados,BRB,AME,73,2004
 Belarus,BLR,ECA,33,2004
 Belgium,BEL,WE/EU,75,2004
-Belize,BEN,SSA,38,2004
-Benin,BOL,AME,32,2004
+Belize,BLZ,SSA,38,2004
+Benin,BEN,AME,32,2004
 Bolivia,BOL,AME,22,2004
 Bosnia and Herzegovina,BIH,ECA,31,2004
 Botswana,BWA,SSA,60,2004
@@ -428,7 +428,7 @@ Benin,BEN,SSA,25,2006
 Gambia,GMB,SSA,25,2006
 Guyana,GUY,AME,25,2006
 Honduras,HND,AME,25,2006
-Nepal,NAM,SSA,25,2006
+Nepal,NPL,SSA,25,2006
 Philippines,PHL,AP,25,2006
 Russia,RUS,ECA,25,2006
 Rwanda,RWA,SSA,25,2006
@@ -449,7 +449,7 @@ Angola,AGO,SSA,22,2006
 "Congo, Republic",COG,SSA,22,2006
 Kenya,KEN,SSA,22,2006
 Kyrgyzstan,KGZ,ECA,22,2006
-Nigeria,NER,SSA,22,2006
+Nigeria,NGA,SSA,22,2006
 Pakistan,PAK,AP,22,2006
 Sierra Leone,SLE,SSA,22,2006
 Tajikistan,TJK,ECA,22,2006
@@ -841,7 +841,7 @@ Norway,NOR,WE/EU,86,2009
 Hong Kong,HKG,AP,82,2009
 Luxembourg,LUX,WE/EU,82,2009
 Germany,DEU,WE/EU,80,2009
-Ireland,ISL,WE/EU,80,2009
+Ireland,IRL,WE/EU,80,2009
 Austria,AUT,WE/EU,79,2009
 Japan,JPN,AP,77,2009
 United Kingdom,GBR,WE/EU,77,2009
@@ -855,7 +855,7 @@ Chile,CHL,AME,67,2009
 Uruguay,URY,AME,67,2009
 Cyprus,CYP,WE/EU,66,2009
 Estonia,EST,WE/EU,66,2009
-Slovenia,SLV,AME,66,2009
+Slovenia,SVN,AME,66,2009
 United Arab Emirates,ARE,MENA,65,2009
 Saint Vincent and the Grenadines,SVN,WE/EU,64,2009
 Israel,ISR,MENA,61,2009
